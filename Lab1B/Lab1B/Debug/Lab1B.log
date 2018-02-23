@@ -1,0 +1,6 @@
+﻿  main.cpp
+f:\semester 8\als\lab1b\lab1b\main.cpp(55): warning C4018: '<': signed/unsigned mismatch
+f:\semester 8\als\lab1b\lab1b\main.cpp(63): warning C4018: '<': signed/unsigned mismatch
+f:\semester 8\als\lab1b\lab1b\main.cpp(64): warning C4018: '<': signed/unsigned mismatch
+f:\semester 8\als\lab1b\lab1b\main.cpp(74): warning C4018: '<': signed/unsigned mismatch
+  Lab1B.vcxproj -> F:\Semester 8\ALS\Lab1B\Debug\Lab1B.exe
