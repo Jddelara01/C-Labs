@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\semester 8\als\lab2\lab2\main.cpp(88): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\semester 8\als\lab2\lab2\main.cpp(89): warning C4305: 'initializing': truncation from 'double' to 'float'
+  LINK : D:\Semester 8\ALS\Lab2\Debug\Lab2.exe not found or not built by the last incremental link; performing full link
+  Lab2.vcxproj -> D:\Semester 8\ALS\Lab2\Debug\Lab2.exe
